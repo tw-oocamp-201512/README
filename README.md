@@ -10,6 +10,8 @@ The notes of this OO bootcamp
     2. 不一定要面向对象，可以过程式、函数式、任意形式
     3. 个人介绍可长可短，但是能让其他人尽可能多的了解你的信息，以方便之后的交流
 
+代码提交在这里：https://github.com/tw-oocamp-201512/the-code-of-you/issues
+
 2. 随便想一想：
 
     1. 想像一下这次OOBootcamp会做什么，会有什么内容，重点是什么
